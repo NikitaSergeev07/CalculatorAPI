@@ -1,0 +1,15 @@
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/bin/Debug/net8.0/Calculation.Services.deps.json
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/bin/Debug/net8.0/Calculation.Services.dll
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/bin/Debug/net8.0/Calculation.Services.pdb
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/Debug/net8.0/Calculation.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/Debug/net8.0/Calculation.Services.AssemblyInfoInputs.cache
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/Debug/net8.0/Calculation.Services.AssemblyInfo.cs
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/Debug/net8.0/Calculation.Services.csproj.CoreCompileInputs.cache
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/Debug/net8.0/Calculation.Services.dll
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/Debug/net8.0/refint/Calculation.Services.dll
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/Debug/net8.0/Calculation.Services.pdb
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/Debug/net8.0/ref/Calculation.Services.dll
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/bin/Debug/net8.0/Calculation.Domain.dll
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/bin/Debug/net8.0/Calculation.Domain.pdb
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/Debug/net8.0/Calculation.Services.csproj.AssemblyReference.cache
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/Debug/net8.0/Calculat.EEC4C65D.Up2Date

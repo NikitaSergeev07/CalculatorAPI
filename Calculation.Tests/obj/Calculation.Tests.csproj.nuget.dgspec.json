@@ -1,0 +1,297 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Tests/Calculation.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.API/Calculation.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.API/Calculation.API.csproj",
+        "projectName": "Calculation.API",
+        "projectPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.API/Calculation.API.csproj",
+        "packagesPath": "/Users/nicolassergeev/.nuget/packages/",
+        "outputPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nicolassergeev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/Calculation.Domain.csproj": {
+                "projectPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/Calculation.Domain.csproj"
+              },
+              "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/Calculation.Services.csproj": {
+                "projectPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/Calculation.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/nicolassergeev/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/Calculation.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/Calculation.Domain.csproj",
+        "projectName": "Calculation.Domain",
+        "projectPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/Calculation.Domain.csproj",
+        "packagesPath": "/Users/nicolassergeev/.nuget/packages/",
+        "outputPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nicolassergeev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/nicolassergeev/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/Calculation.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/Calculation.Services.csproj",
+        "projectName": "Calculation.Services",
+        "projectPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/Calculation.Services.csproj",
+        "packagesPath": "/Users/nicolassergeev/.nuget/packages/",
+        "outputPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nicolassergeev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/Calculation.Domain.csproj": {
+                "projectPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/Calculation.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/nicolassergeev/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Tests/Calculation.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Tests/Calculation.Tests.csproj",
+        "projectName": "Calculation.Tests",
+        "projectPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Tests/Calculation.Tests.csproj",
+        "packagesPath": "/Users/nicolassergeev/.nuget/packages/",
+        "outputPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nicolassergeev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.API/Calculation.API.csproj": {
+                "projectPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.API/Calculation.API.csproj"
+              },
+              "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/Calculation.Services.csproj": {
+                "projectPath": "/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Services/Calculation.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/nicolassergeev/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

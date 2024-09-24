@@ -1,0 +1,11 @@
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/bin/Debug/net8.0/Calculation.Domain.deps.json
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/bin/Debug/net8.0/Calculation.Domain.dll
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/bin/Debug/net8.0/Calculation.Domain.pdb
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/obj/Debug/net8.0/Calculation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/obj/Debug/net8.0/Calculation.Domain.AssemblyInfoInputs.cache
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/obj/Debug/net8.0/Calculation.Domain.AssemblyInfo.cs
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/obj/Debug/net8.0/Calculation.Domain.csproj.CoreCompileInputs.cache
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/obj/Debug/net8.0/Calculation.Domain.dll
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/obj/Debug/net8.0/refint/Calculation.Domain.dll
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/obj/Debug/net8.0/Calculation.Domain.pdb
+/Users/nicolassergeev/RiderProjects/Calculation/Calculation.Domain/obj/Debug/net8.0/ref/Calculation.Domain.dll
